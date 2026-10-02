@@ -1,0 +1,29 @@
+node_modules/
+.pnpm-store/
+
+.env
+.env.*
+!.env.example
+
+.next/
+dist/
+build/
+coverage/
+.turbo/
+
+*.log
+.DS_Store
+
+docker-data/
+postgres-data/
+redis-data/
+uploads/
+
+.idea/
+.vscode/
+
+# Local backups
+*.bak
+
+# TypeScript build artifacts
+*.tsbuildinfo

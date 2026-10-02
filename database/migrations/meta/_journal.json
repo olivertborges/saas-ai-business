@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790965559125,
+      "tag": "0000_freezing_sage",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790974627799,
+      "tag": "0001_bumpy_typhoid_mary",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790975072936,
+      "tag": "0002_true_susan_delgado",
+      "breakpoints": true
+    }
+  ]
+}
